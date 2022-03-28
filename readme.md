@@ -7,7 +7,7 @@
 
 2. Creamos este archivo y hacemos un commit
    
-   ![img3](img/Captura3.png)
+   ![img3](img/Captura3.jpg)
 
     |Comando |Explicación |
     |:--- |:---- |
